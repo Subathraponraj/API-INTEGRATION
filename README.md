@@ -22,3 +22,4 @@ A key feature of this application is its voice search functionality, powered by 
 
 *OUTPUT*:
 ![Image](https://github.com/user-attachments/assets/3d1d3f54-5ef9-44bd-afd4-318e3fe12455)
+![Image](https://github.com/user-attachments/assets/46b5f08b-deeb-4402-84d4-943f46ed1eaf)
